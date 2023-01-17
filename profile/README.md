@@ -51,3 +51,10 @@ Liens vers les autres projets Github (API, Mobile) :
 
 - API : [https://github.com/KickFlip-Org/api](https://github.com/KickFlip-Org/api)
 - Website : [https://github.com/KickFlip-Org/website](https://github.com/KickFlip-Org/website)
+
+Ce qu’on aurait aimé avoir fait pour la prochaine séance : 
+
+- Sitemap
+- Maquette
+- Docker
+- UML en place
