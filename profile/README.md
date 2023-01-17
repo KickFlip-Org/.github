@@ -17,16 +17,17 @@ Liste des fonctionnalités voulues :
 - Authentification
 - En admin, CRUD général
 - Personnalisation des boards
-- Monitoring
+- Gestion des stocks (cacher un article s'il n'est pas disponible)
+- Système d’envoi de mails (à l'achat d'un produit et lorsqu'un stock est vide)
+- Système de paiement (avec un système de crédits)
+- Un produit peut être mit en avant ou en promo par l'admin
+- Monitoring (stats à préciser)
 
 Liste des fonctionnalités bonus :
 
-- Gestion des stocks
-- Système d’envoi de mails
 - Partage sur les réseaux
 - Génération de PDF des bons de commandes
-- Enchères
-- Système de paiement
+- Vente/Enchères
 - Newsletter
 
 Technos utilisées : 
