@@ -11,16 +11,23 @@ Présentation du projet :
 
 Site e-commerce lié au skateboard avec une interface de gestion des stocks et la possibilité de personnaliser sa planche.
 
-Liste fonctionnalités : 
+Liste des fonctionnalités voulues : 
 
-- Vente
-- Enchères
-- Personnalisation
+- Achat/Boutique
+- Authentification
+- En admin, CRUD général
+- Personnalisation des boards
+- Monitoring
+
+Liste des fonctionnalités bonus :
+
+- Gestion des stocks
+- Système d’envoi de mails
 - Partage sur les réseaux
-
-Liste des fonctionnalités voulues (à mettre en place pour le rendu)
-
-Liste des fonctionnalités bonus (à faire si vous avez le temps)
+- Génération de PDF des bons de commandes
+- Enchères
+- Système de paiement
+- Newsletter
 
 Technos utilisées : 
 
@@ -30,12 +37,14 @@ Technos utilisées :
 - API : **TypeScript (NestJS)**  **MikroORM**
 - Site : **VueJS**
 
-Liste des vues (interfaces utilisateurs) de l’app Web et/ou Mobile : 
+Liste des vues (interfaces utilisateurs) de l’app Web et/ou Mobile :
 
-- ex : Dashboard Admin
-- ex : Page de Login
-- ex : Page d’inscription
-- …
+- Dashboard Admin
+- Page de Login
+- Page d’inscription
+- Page d’accueil avec promos/produits phares…
+- Page boutique
+- Page de personnalisation
 
 Liens vers les autres projets Github (API, Mobile) :
 
